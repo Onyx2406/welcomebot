@@ -1,2 +1,2 @@
-BOTNAME = os.getenv('BOTNAME', 'OnyxBotTest')
-TOKEN = os.getenv('TOKEN', '1987248424:AAHJOY0Sw8qRDlYQp4gJfmX4gB21IzH0XF8')
+BOTNAME = os.getenv('BOTNAME', 'onyx1121bot')
+TOKEN = os.getenv('TOKEN', '1960714498:AAENYxcWF9DoV76OsQpblivXaByMWdG06Zs')
